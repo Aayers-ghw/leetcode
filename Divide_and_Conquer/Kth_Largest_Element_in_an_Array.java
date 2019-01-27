@@ -1,4 +1,4 @@
-package Divide_and_Conquer;
+package divide_and_conquer;
 
 import java.util.Arrays;
 import java.util.PriorityQueue;

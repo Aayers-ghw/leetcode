@@ -1,4 +1,4 @@
-package Brainteaser;
+package brainteaser;
 
 public class Bulb_Switcher {
     public int bulbSwitch(int n) {

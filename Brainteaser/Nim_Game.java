@@ -1,4 +1,4 @@
-package Brainteaser;
+package brainteaser;
 
 public class Nim_Game {
 //	private int[] dp = new int[100000];
