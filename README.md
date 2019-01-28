@@ -31,7 +31,10 @@
 | 83             | [Remove Duplicates from Sorted List](https://github.com/Aayers-ghw/leetcode/blob/master/linkedlist/Remove_Duplicates_from_Sorted_List.java) |
 | 88             | [Merge Sorted Array](https://github.com/Aayers-ghw/leetcode/blob/master/array/Merge_Sorted_Array.java) |
 | 94             | [Binary Tree Inorder Traversal](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Binary_Tree_Inorder_Traversal.java) |
+| 96             | [Unique Binary Search Trees](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Unique_Binary_Search_Trees.java) |
+| 100             | [Same Tree](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Same_Tree.java) |
 | 102             | [Binary Tree Level Order Traversal](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Binary_Tree_Level_Order_Traversal.java) |
+| 103             | [Binary Tree Zigzag Level Order Traversal](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Binary_Tree_Zigzag_Level_Order_Traversal.java) |
 | 104             | [Maximum Depth of Binary Tree](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Maximum_Depth_of_Binary_Tree.java) |
 | 107             | [Binary Tree Level Order Traversal II](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Binary_Tree_Level_Order_Traversal_II.java) |
 | 118             | [Pascal's Triangle](https://github.com/Aayers-ghw/leetcode/blob/master/array/Pascals_Triangle.java) |
@@ -80,6 +83,7 @@
 | 438             | [Find All Anagrams in a String](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Find_All_Anagrams_in_a_String.java) |
 | 447             | [Number of Boomerangs](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Number_of_Boomerangs.java) |
 | 448             | [Find All Numbers Disappeared in an Array](https://github.com/Aayers-ghw/leetcode/blob/master/array/Find_All_Numbers_Disappeared_in_an_Array.java) |
+| 450             | [Delete Node in a BST](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Delete_Node_in_a_BST.java) |
 | 463             | [Island Perimeter](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Island_Perimeter.java) |
 | 485             | [Max Consecutive Ones](https://github.com/Aayers-ghw/leetcode/blob/master/array/Max_Consecutive_Ones.java) |
 | 496             | [Next Greater Element I](https://github.com/Aayers-ghw/leetcode/blob/master/stack/Next_Greater_Element_I.java) |
@@ -124,3 +128,23 @@
 | 933             | [Number of Recent Calls](https://github.com/Aayers-ghw/leetcode/blob/master/queue/Number_of_Recent_Calls.java) |
 | 973             | [K Closest Points to Origin](https://github.com/Aayers-ghw/leetcode/blob/master/sort/K_Closest_Points_to_Origin.java) |
 |              | []() |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
