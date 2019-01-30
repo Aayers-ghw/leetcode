@@ -48,6 +48,7 @@
 | 153             | [Find Minimum in Rotated Sorted Array](https://github.com/Aayers-ghw/leetcode/blob/master/bsearch/Find_Minimum_in_Rotated_Sorted_Array.java) |
 | 155             | [Min Stack](https://github.com/Aayers-ghw/leetcode/blob/master/stack/MinStack.java) |
 | 160             | [Intersection of Two Linked Lists](https://github.com/Aayers-ghw/leetcode/blob/master/linkedlist/Intersection_of_Two_Linked_Lists.java) |
+| 162             | [Find Peak Element](https://github.com/Aayers-ghw/leetcode/blob/master/bsearch/Find_Peak_Element.java) |
 | 167             | [Two Sum II - Input array is sorted](https://github.com/Aayers-ghw/leetcode/blob/master/array/Two_Sum_II_Input_array_is_sorted.java) |
 | 169             | [Majority Element](https://github.com/Aayers-ghw/leetcode/blob/master/array/Majority_Element.java) |
 | 189             | [Rotate Array](https://github.com/Aayers-ghw/leetcode/blob/master/array/Rotate_Array.java) |
@@ -60,8 +61,10 @@
 | 215             | [Kth Largest Element in an Array](https://github.com/Aayers-ghw/leetcode/blob/master/divide_and_conquer/Kth_Largest_Element_in_an_Array.java) |
 | 217             | [Contains Duplicate](https://github.com/Aayers-ghw/leetcode/blob/master/array/Contains_Duplicate.java) |
 | 219             | [Contains Duplicate II](https://github.com/Aayers-ghw/leetcode/blob/master/array/Contains_Duplicate_II.java) |
+| 222             | [Count Complete Tree Nodes](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Count_Complete_Tree_Nodes.java) |
 | 224             | [Basic Calculator](https://github.com/Aayers-ghw/leetcode/blob/master/stack/Basic_Calculator.java) |
 | 225             | [Implement Stack using Queues](https://github.com/Aayers-ghw/leetcode/blob/master/queue/Implement_Stack_using_Queues.java) |
+| 226             | [Invert Binary Tree](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Invert_Binary_Tree.java) |
 | 232             | [Implement Queue using Stacks](https://github.com/Aayers-ghw/leetcode/blob/master/stack/Implement_Queue_using_Stacks.java) |
 | 234             | [Palindrome Linked List](https://github.com/Aayers-ghw/leetcode/blob/master/linkedlist/Palindrome_Linked_List.java) |
 | 237             | [Delete Node in a Linked List](https://github.com/Aayers-ghw/leetcode/blob/master/linkedlist/Delete_Node_in_a_Linked_List.java) |
@@ -100,6 +103,7 @@
 | 599             | [Minimum Index Sum of Two Lists](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Minimum_Index_Sum_of_Two_Lists.java) |
 | 605             | [Can Place Flowers](https://github.com/Aayers-ghw/leetcode/blob/master/array/Can_Place_Flowers.java) |
 | 628             | [Maximum Product of Three Numbers](https://github.com/Aayers-ghw/leetcode/blob/master/array/Maximum_Product_of_Three_Numbers.java) |
+| 637             | [Average of Levels in Binary Tree](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Average_of_Levels_in_Binary_Tree.java) |
 | 643             | [Maximum Average Subarray I](https://github.com/Aayers-ghw/leetcode/blob/master/array/Maximum_Average_Subarray_I.java) |
 | 645             | [Set Mismatch](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Set_Mismatch.java) |
 | 661             | [Image Smoother](https://github.com/Aayers-ghw/leetcode/blob/master/array/Image_Smoother.java) |
@@ -135,7 +139,7 @@
 
 
 
-| 226             | [Invert Binary Tree](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Invert_Binary_Tree.java) |
+
 
 
 
