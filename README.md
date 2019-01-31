@@ -74,6 +74,8 @@
 | 283             | [Move Zeroes](https://github.com/Aayers-ghw/leetcode/blob/master/array/Move_Zeroes.java) |
 | 290             | [Word Pattern](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Word_Pattern.java) |
 | 292             | [Nim Game](https://github.com/Aayers-ghw/leetcode/blob/master/brainteaser/Nim_Game.java) |
+| 295             | [Find Median from Data Stream](https://github.com/Aayers-ghw/leetcode/blob/master/heap/Find_Median_from_Data_Stream.java) |
+| 297             | [Serialize and Deserialize Binary Tree](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Serialize_and_Deserialize_Binary_Tree.java) |
 | 303             | [Range Sum Query - Immutable](https://github.com/Aayers-ghw/leetcode/blob/master/dynamic_programming/Range_Sum_Query_Immutable.java) |
 | 319             | [Bulb Switcher](https://github.com/Aayers-ghw/leetcode/blob/master/brainteaser/Bulb_Switcher.java) |
 | 349             | [Intersection of Two Arrays](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Intersection_of_Two_Arrays.java) |
@@ -112,6 +114,7 @@
 | 682             | [Baseball Game](https://github.com/Aayers-ghw/leetcode/blob/master/stack/Baseball_Game.java) |
 | 695             | [Max Area of Island](https://github.com/Aayers-ghw/leetcode/blob/master/array/Max_Area_of_Island.java) |
 | 697             | [Degree of an Array](https://github.com/Aayers-ghw/leetcode/blob/master/array/Degree_of_an_Array.java) |
+| 703             | [Kth Largest Element in a Stream](https://github.com/Aayers-ghw/leetcode/blob/master/heap/Kth_Largest_Element_in_a_Stream.java) |
 | 707             | [Design Linked List](https://github.com/Aayers-ghw/leetcode/blob/master/linkedlist/Design_Linked_List.java) |
 | 717             | [1-bit and 2-bit Characters](https://github.com/Aayers-ghw/leetcode/blob/master/array/_1bit_and_2bit_Characters.java) |
 | 724             | [Find Pivot Index](https://github.com/Aayers-ghw/leetcode/blob/master/array/Find_Pivot_Index.java) |
