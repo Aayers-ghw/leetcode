@@ -40,7 +40,7 @@
 | 106             | [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.java) |
 | 107             | [Binary Tree Level Order Traversal II](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Binary_Tree_Level_Order_Traversal_II.java) |
 | 112             | [Path Sum](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Path_Sum.java) |
-| 113             | [Path Sum](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Path_Sum_II.java) |
+| 113             | [Path Sum II](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Path_Sum_II.java) |
 | 118             | [Pascal's Triangle](https://github.com/Aayers-ghw/leetcode/blob/master/array/Pascals_Triangle.java) |
 | 119             | [Pascal's Triangle II](https://github.com/Aayers-ghw/leetcode/blob/master/array/Pascals_Triangle_II.java) |
 | 121             | [Best Time to Buy and Sell Stock](https://github.com/Aayers-ghw/leetcode/blob/master/array/Best_Time_to_Buy_and_Sell_Stock.java) |
