@@ -36,7 +36,11 @@
 | 102             | [Binary Tree Level Order Traversal](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Binary_Tree_Level_Order_Traversal.java) |
 | 103             | [Binary Tree Zigzag Level Order Traversal](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Binary_Tree_Zigzag_Level_Order_Traversal.java) |
 | 104             | [Maximum Depth of Binary Tree](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Maximum_Depth_of_Binary_Tree.java) |
+| 105             | [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.java) |
+| 106             | [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.java) |
 | 107             | [Binary Tree Level Order Traversal II](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Binary_Tree_Level_Order_Traversal_II.java) |
+| 112             | [Path Sum](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Path_Sum.java) |
+| 113             | [Path Sum](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Path_Sum_II.java) |
 | 118             | [Pascal's Triangle](https://github.com/Aayers-ghw/leetcode/blob/master/array/Pascals_Triangle.java) |
 | 119             | [Pascal's Triangle II](https://github.com/Aayers-ghw/leetcode/blob/master/array/Pascals_Triangle_II.java) |
 | 121             | [Best Time to Buy and Sell Stock](https://github.com/Aayers-ghw/leetcode/blob/master/array/Best_Time_to_Buy_and_Sell_Stock.java) |
@@ -70,6 +74,7 @@
 | 237             | [Delete Node in a Linked List](https://github.com/Aayers-ghw/leetcode/blob/master/linkedlist/Delete_Node_in_a_Linked_List.java) |
 | 240             | [Search a 2D Matrix II](https://github.com/Aayers-ghw/leetcode/blob/master/divide_and_conquer/Search_a_2D_Matrix_II.java) |
 | 242             | [Valid Anagram](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Valid_Anagram.java) |
+| 257             | [Binary Tree Paths](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Binary_Tree_Paths.java) |
 | 268             | [Missing Number](https://github.com/Aayers-ghw/leetcode/blob/master/array/Missing_Number.java) |
 | 283             | [Move Zeroes](https://github.com/Aayers-ghw/leetcode/blob/master/array/Move_Zeroes.java) |
 | 290             | [Word Pattern](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Word_Pattern.java) |
@@ -135,8 +140,6 @@
 | 933             | [Number of Recent Calls](https://github.com/Aayers-ghw/leetcode/blob/master/queue/Number_of_Recent_Calls.java) |
 | 973             | [K Closest Points to Origin](https://github.com/Aayers-ghw/leetcode/blob/master/sort/K_Closest_Points_to_Origin.java) |
 |              | []() |
-
-
 
 
 
