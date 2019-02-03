@@ -101,6 +101,7 @@
 | 500             | [Keyboard Row](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Keyboard_Row.java) |
 | 515             | [Find Largest Value in Each Tree Row](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Find_Largest_Value_in_Each_Tree_Row.java) |
 | 532             | [K-diff Pairs in an Array](https://github.com/Aayers-ghw/leetcode/blob/master/array/Kdiff_Pairs_in_an_Array.java) |
+| 543             | [Diameter of Binary Tree](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Diameter_of_Binary_Tree.java) |
 | 559             | [Maximum Depth of N-ary Tree](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Maximum_Depth_of_Nary_Tree.java) |
 | 561             | [Array Partition I](https://github.com/Aayers-ghw/leetcode/blob/master/array/Array_Partition_I.java) |
 | 566             | [Reshape the Matrix](https://github.com/Aayers-ghw/leetcode/blob/master/array/Reshape_the_Matrix.java) |
