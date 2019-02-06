@@ -20,11 +20,15 @@
 | 33             | [Search in Rotated Sorted Array](https://github.com/Aayers-ghw/leetcode/blob/master/bsearch/Search_in_Rotated_Sorted_Array.java) |
 | 34             | [Find First and Last Position of Element in Sorted Array](https://github.com/Aayers-ghw/leetcode/blob/master/bsearch/Find_First_and_Last_Position_of_Element_in_Sorted_Array.java) |
 | 35             | [Search Insert Position](https://github.com/Aayers-ghw/leetcode/blob/master/array/Search_Insert_Position.java) |
+| 38             | [Count and Say](https://github.com/Aayers-ghw/leetcode/blob/master/string/Count_and_Say.java) |
+| 49             | [Group Anagrams](https://github.com/Aayers-ghw/leetcode/blob/master/string/Group_Anagrams.java) |
 | 53             | [Maximum Subarray](https://github.com/Aayers-ghw/leetcode/blob/master/array/Maximum_Subarray.java) |
+| 58             | [Length of Last Word](https://github.com/Aayers-ghw/leetcode/blob/master/string/Length_of_Last_Word.java) |
 | 62             | [Unique Paths](https://github.com/Aayers-ghw/leetcode/blob/master/dynamic_programming/Unique_Paths.java) |
 | 63             | [Unique Paths II](https://github.com/Aayers-ghw/leetcode/blob/master/dynamic_programming/Unique_Paths_II.java) |
 | 64             | [Minimum Path Sum](https://github.com/Aayers-ghw/leetcode/blob/master/dynamic_programming/Minimum_Path_Sum.java) |
 | 66             | [Plus One](https://github.com/Aayers-ghw/leetcode/blob/master/array/Plus_One.java) |
+| 67             | [Add Binary](https://github.com/Aayers-ghw/leetcode/blob/master/string/Add_Binary.java) |
 | 69             | [Sqrt(x)](https://github.com/Aayers-ghw/leetcode/blob/master/bsearch/Sqrt_x.java) |
 | 70             | [Climbing Stairs](https://github.com/Aayers-ghw/leetcode/blob/master/dynamic_programming/Climbing_Stairs.java) |
 | 74             | [Search a 2D Matrix](https://github.com/Aayers-ghw/leetcode/blob/master/bsearch/Search_a_2D_Matrix.java) |
@@ -64,6 +68,7 @@
 | 204             | [Count Primes](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Count_Primes.java) |
 | 205             | [Isomorphic Strings](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Isomorphic_Strings.java) |
 | 206             | [Reverse Linked List](https://github.com/Aayers-ghw/leetcode/blob/master/linkedlist/Reverse_Linked_List.java) |
+| 208             | [Implement Trie (Prefix Tree)](https://github.com/Aayers-ghw/leetcode/blob/master/trie/Implement_Trie_Prefix_Tree.java) |
 | 215             | [Kth Largest Element in an Array](https://github.com/Aayers-ghw/leetcode/blob/master/divide_and_conquer/Kth_Largest_Element_in_an_Array.java) |
 | 217             | [Contains Duplicate](https://github.com/Aayers-ghw/leetcode/blob/master/array/Contains_Duplicate.java) |
 | 219             | [Contains Duplicate II](https://github.com/Aayers-ghw/leetcode/blob/master/array/Contains_Duplicate_II.java) |
@@ -145,6 +150,8 @@
 | 933             | [Number of Recent Calls](https://github.com/Aayers-ghw/leetcode/blob/master/queue/Number_of_Recent_Calls.java) |
 | 973             | [K Closest Points to Origin](https://github.com/Aayers-ghw/leetcode/blob/master/sort/K_Closest_Points_to_Origin.java) |
 |              | []() |
+
+
 
 
 
