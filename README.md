@@ -92,6 +92,7 @@
 | 319             | [Bulb Switcher](https://github.com/Aayers-ghw/leetcode/blob/master/brainteaser/Bulb_Switcher.java) |
 | 349             | [Intersection of Two Arrays](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Intersection_of_Two_Arrays.java) |
 | 350             | [Intersection of Two Arrays II](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Intersection_of_Two_Arrays_II.java) |
+| 383             | [Ransom Note](https://github.com/Aayers-ghw/leetcode/blob/master/string/Ransom_Note.java) |
 | 387             | [First Unique Character in a String](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/First_Unique_Character_in_a_String.java ) |
 | 389             | [Find the Difference](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Find_the_Difference.java) |
 | 409             | [Longest Palindrome](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Longest_Palindrome.java) |
@@ -122,6 +123,7 @@
 | 637             | [Average of Levels in Binary Tree](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Average_of_Levels_in_Binary_Tree.java) |
 | 643             | [Maximum Average Subarray I](https://github.com/Aayers-ghw/leetcode/blob/master/array/Maximum_Average_Subarray_I.java) |
 | 645             | [Set Mismatch](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Set_Mismatch.java) |
+| 648             | [Replace Words](https://github.com/Aayers-ghw/leetcode/blob/master/trie/Replace_Words.java) |
 | 661             | [Image Smoother](https://github.com/Aayers-ghw/leetcode/blob/master/array/Image_Smoother.java) |
 | 665             | [Non-decreasing Array](https://github.com/Aayers-ghw/leetcode/blob/master/array/Non_decreasing_Array.java) |
 | 674             | [Longest Continuous Increasing Subsequence](https://github.com/Aayers-ghw/leetcode/blob/master/array/Longest_Continuous_Increasing_Subsequence.java) |
