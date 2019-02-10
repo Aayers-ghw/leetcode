@@ -33,6 +33,7 @@
 | 70             | [Climbing Stairs](https://github.com/Aayers-ghw/leetcode/blob/master/dynamic_programming/Climbing_Stairs.java) |
 | 74             | [Search a 2D Matrix](https://github.com/Aayers-ghw/leetcode/blob/master/bsearch/Search_a_2D_Matrix.java) |
 | 75             | [Sort Colors](https://github.com/Aayers-ghw/leetcode/blob/master/sort/Sort_Colors.java) |
+| 78             | [Subsets](https://github.com/Aayers-ghw/leetcode/blob/master/backtracking/Subsets.java) |
 | 83             | [Remove Duplicates from Sorted List](https://github.com/Aayers-ghw/leetcode/blob/master/linkedlist/Remove_Duplicates_from_Sorted_List.java) |
 | 88             | [Merge Sorted Array](https://github.com/Aayers-ghw/leetcode/blob/master/array/Merge_Sorted_Array.java) |
 | 94             | [Binary Tree Inorder Traversal](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Binary_Tree_Inorder_Traversal.java) |
