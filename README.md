@@ -21,6 +21,7 @@
 | 34             | [Find First and Last Position of Element in Sorted Array](https://github.com/Aayers-ghw/leetcode/blob/master/bsearch/Find_First_and_Last_Position_of_Element_in_Sorted_Array.java) |
 | 35             | [Search Insert Position](https://github.com/Aayers-ghw/leetcode/blob/master/array/Search_Insert_Position.java) |
 | 38             | [Count and Say](https://github.com/Aayers-ghw/leetcode/blob/master/string/Count_and_Say.java) |
+| 46             | [Permutations](https://github.com/Aayers-ghw/leetcode/blob/master/backtracking/Permutations.java) |
 | 49             | [Group Anagrams](https://github.com/Aayers-ghw/leetcode/blob/master/string/Group_Anagrams.java) |
 | 53             | [Maximum Subarray](https://github.com/Aayers-ghw/leetcode/blob/master/array/Maximum_Subarray.java) |
 | 58             | [Length of Last Word](https://github.com/Aayers-ghw/leetcode/blob/master/string/Length_of_Last_Word.java) |
@@ -142,6 +143,7 @@
 | 746             | [Min Cost Climbing Stairs](https://github.com/Aayers-ghw/leetcode/blob/master/dynamic_programming/Min_Cost_Climbing_Stairs.java) |
 | 747             | [Largest Number At Least Twice of Others](https://github.com/Aayers-ghw/leetcode/blob/master/array/Largest_Number_At_Least_Twice_of_Others.java) |
 | 766             | [Toeplitz Matrix](https://github.com/Aayers-ghw/leetcode/blob/master/array/Toeplitz_Matrix.java) |
+| 784             | [Letter Case Permutation](https://github.com/Aayers-ghw/leetcode/blob/master/backtracking/Letter_Case_Permutation.java) |
 | 830             | [Positions of Large Groups](https://github.com/Aayers-ghw/leetcode/blob/master/array/Positions_of_Large_Groups.java) |
 | 840             | [Magic Squares In Grid](https://github.com/Aayers-ghw/leetcode/blob/master/array/Magic_Squares_In_Grid.java) |
 | 841             | [Keys and Rooms](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Keys_and_Rooms.java) |
@@ -157,6 +159,7 @@
 | 933             | [Number of Recent Calls](https://github.com/Aayers-ghw/leetcode/blob/master/queue/Number_of_Recent_Calls.java) |
 | 973             | [K Closest Points to Origin](https://github.com/Aayers-ghw/leetcode/blob/master/sort/K_Closest_Points_to_Origin.java) |
 |              | []() |
+
 
 
 
