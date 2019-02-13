@@ -14,6 +14,7 @@
 | 19             | [Remove Nth Node From End of List](https://github.com/Aayers-ghw/leetcode/blob/master/linkedlist/Remove_Nth_Node_From_End_of_List.java) |
 | 20             | [Valid Parentheses](https://github.com/Aayers-ghw/leetcode/blob/master/stack/Valid_Parentheses.java) |
 | 21             | [Merge Two Sorted Lists](https://github.com/Aayers-ghw/leetcode/blob/master/linkedlist/Merge_Two_Sorted_Lists.java) |
+| 22             | [Generate Parentheses](https://github.com/Aayers-ghw/leetcode/blob/master/backtracking/Generate_Parentheses.java) |
 | 26             | [Remove Duplicates from Sorted Array](https://github.com/Aayers-ghw/leetcode/blob/master/array/Remove_Duplicates_from_Sorted_Array.java) |
 | 27             | [Remove Element](https://github.com/Aayers-ghw/leetcode/blob/master/array/Remove_Element.java) |
 | 28             | [Implement strStr()](https://github.com/Aayers-ghw/leetcode/blob/master/string/Implement_strStr.java) |
