@@ -93,6 +93,7 @@
 | 297             | [Serialize and Deserialize Binary Tree](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Serialize_and_Deserialize_Binary_Tree.java) |
 | 303             | [Range Sum Query - Immutable](https://github.com/Aayers-ghw/leetcode/blob/master/dynamic_programming/Range_Sum_Query_Immutable.java) |
 | 319             | [Bulb Switcher](https://github.com/Aayers-ghw/leetcode/blob/master/brainteaser/Bulb_Switcher.java) |
+| 328             | [Odd Even Linked List](https://github.com/Aayers-ghw/leetcode/blob/master/linkedlist/Odd_Even_Linked_List.java) |
 | 349             | [Intersection of Two Arrays](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Intersection_of_Two_Arrays.java) |
 | 350             | [Intersection of Two Arrays II](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Intersection_of_Two_Arrays_II.java) |
 | 383             | [Ransom Note](https://github.com/Aayers-ghw/leetcode/blob/master/string/Ransom_Note.java) |
