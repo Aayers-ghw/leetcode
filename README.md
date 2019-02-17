@@ -39,6 +39,7 @@
 | 78             | [Subsets](https://github.com/Aayers-ghw/leetcode/blob/master/backtracking/Subsets.java) |
 | 83             | [Remove Duplicates from Sorted List](https://github.com/Aayers-ghw/leetcode/blob/master/linkedlist/Remove_Duplicates_from_Sorted_List.java) |
 | 88             | [Merge Sorted Array](https://github.com/Aayers-ghw/leetcode/blob/master/array/Merge_Sorted_Array.java) |
+| 92             | [Reverse Linked List II](https://github.com/Aayers-ghw/leetcode/blob/master/linkedlist/Reverse_Linked_List_II.java) |
 | 94             | [Binary Tree Inorder Traversal](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Binary_Tree_Inorder_Traversal.java) |
 | 96             | [Unique Binary Search Trees](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Unique_Binary_Search_Trees.java) |
 | 100             | [Same Tree](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Same_Tree.java) |
