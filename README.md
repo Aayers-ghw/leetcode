@@ -67,6 +67,7 @@
 | 167             | [Two Sum II - Input array is sorted](https://github.com/Aayers-ghw/leetcode/blob/master/array/Two_Sum_II_Input_array_is_sorted.java) |
 | 169             | [Majority Element](https://github.com/Aayers-ghw/leetcode/blob/master/array/Majority_Element.java) |
 | 189             | [Rotate Array](https://github.com/Aayers-ghw/leetcode/blob/master/array/Rotate_Array.java) |
+| 191             | [Number of 1 Bits](https://github.com/Aayers-ghw/leetcode/blob/master/bit_manipulation/Number_of_1_Bits.java) |
 | 198             | [House Robber](https://github.com/Aayers-ghw/leetcode/blob/master/dynamic_programming/House_Robber.java) |
 | 202             | [Happy Number](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Happy_Number.java) |
 | 203             | [Remove Linked List Elements](https://github.com/Aayers-ghw/leetcode/blob/master/linkedlist/Remove_Linked_List_Elements.java) |
@@ -81,6 +82,7 @@
 | 224             | [Basic Calculator](https://github.com/Aayers-ghw/leetcode/blob/master/stack/Basic_Calculator.java) |
 | 225             | [Implement Stack using Queues](https://github.com/Aayers-ghw/leetcode/blob/master/queue/Implement_Stack_using_Queues.java) |
 | 226             | [Invert Binary Tree](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Invert_Binary_Tree.java) |
+| 231             | [Power of Two](https://github.com/Aayers-ghw/leetcode/blob/master/bit_manipulation/Power_of_Two.java) |
 | 232             | [Implement Queue using Stacks](https://github.com/Aayers-ghw/leetcode/blob/master/stack/Implement_Queue_using_Stacks.java) |
 | 234             | [Palindrome Linked List](https://github.com/Aayers-ghw/leetcode/blob/master/linkedlist/Palindrome_Linked_List.java) |
 | 237             | [Delete Node in a Linked List](https://github.com/Aayers-ghw/leetcode/blob/master/linkedlist/Delete_Node_in_a_Linked_List.java) |
@@ -96,6 +98,7 @@
 | 303             | [Range Sum Query - Immutable](https://github.com/Aayers-ghw/leetcode/blob/master/dynamic_programming/Range_Sum_Query_Immutable.java) |
 | 319             | [Bulb Switcher](https://github.com/Aayers-ghw/leetcode/blob/master/brainteaser/Bulb_Switcher.java) |
 | 328             | [Odd Even Linked List](https://github.com/Aayers-ghw/leetcode/blob/master/linkedlist/Odd_Even_Linked_List.java) |
+| 342             | [Power of Four](https://github.com/Aayers-ghw/leetcode/blob/master/bit_manipulation/Power_of_Four.java) |
 | 349             | [Intersection of Two Arrays](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Intersection_of_Two_Arrays.java) |
 | 350             | [Intersection of Two Arrays II](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Intersection_of_Two_Arrays_II.java) |
 | 383             | [Ransom Note](https://github.com/Aayers-ghw/leetcode/blob/master/string/Ransom_Note.java) |
@@ -141,6 +144,7 @@
 | 665             | [Non-decreasing Array](https://github.com/Aayers-ghw/leetcode/blob/master/array/Non_decreasing_Array.java) |
 | 674             | [Longest Continuous Increasing Subsequence](https://github.com/Aayers-ghw/leetcode/blob/master/array/Longest_Continuous_Increasing_Subsequence.java) |
 | 682             | [Baseball Game](https://github.com/Aayers-ghw/leetcode/blob/master/stack/Baseball_Game.java) |
+| 693             | [Binary Number with Alternating Bits](https://github.com/Aayers-ghw/leetcode/blob/master/bit_manipulation/Binary_Number_with_Alternating_Bits.java) |
 | 695             | [Max Area of Island](https://github.com/Aayers-ghw/leetcode/blob/master/array/Max_Area_of_Island.java) |
 | 697             | [Degree of an Array](https://github.com/Aayers-ghw/leetcode/blob/master/array/Degree_of_an_Array.java) |
 | 703             | [Kth Largest Element in a Stream](https://github.com/Aayers-ghw/leetcode/blob/master/heap/Kth_Largest_Element_in_a_Stream.java) |
