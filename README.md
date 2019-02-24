@@ -99,6 +99,7 @@
 | 319             | [Bulb Switcher](https://github.com/Aayers-ghw/leetcode/blob/master/brainteaser/Bulb_Switcher.java) |
 | 328             | [Odd Even Linked List](https://github.com/Aayers-ghw/leetcode/blob/master/linkedlist/Odd_Even_Linked_List.java) |
 | 342             | [Power of Four](https://github.com/Aayers-ghw/leetcode/blob/master/bit_manipulation/Power_of_Four.java) |
+| 344             | [Reverse String](https://github.com/Aayers-ghw/leetcode/blob/master/string/Reverse_String.java) |
 | 349             | [Intersection of Two Arrays](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Intersection_of_Two_Arrays.java) |
 | 350             | [Intersection of Two Arrays II](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Intersection_of_Two_Arrays_II.java) |
 | 383             | [Ransom Note](https://github.com/Aayers-ghw/leetcode/blob/master/string/Ransom_Note.java) |
@@ -148,6 +149,7 @@
 | 695             | [Max Area of Island](https://github.com/Aayers-ghw/leetcode/blob/master/array/Max_Area_of_Island.java) |
 | 697             | [Degree of an Array](https://github.com/Aayers-ghw/leetcode/blob/master/array/Degree_of_an_Array.java) |
 | 703             | [Kth Largest Element in a Stream](https://github.com/Aayers-ghw/leetcode/blob/master/heap/Kth_Largest_Element_in_a_Stream.java) |
+| 704             | [Binary Search](https://github.com/Aayers-ghw/leetcode/blob/master/bsearch/Binary_Search.java) |
 | 707             | [Design Linked List](https://github.com/Aayers-ghw/leetcode/blob/master/linkedlist/Design_Linked_List.java) |
 | 717             | [1-bit and 2-bit Characters](https://github.com/Aayers-ghw/leetcode/blob/master/array/_1bit_and_2bit_Characters.java) |
 | 724             | [Find Pivot Index](https://github.com/Aayers-ghw/leetcode/blob/master/array/Find_Pivot_Index.java) |
