@@ -155,7 +155,7 @@
 | 703             | [Kth Largest Element in a Stream](https://github.com/Aayers-ghw/leetcode/blob/master/heap/Kth_Largest_Element_in_a_Stream.java) |
 | 704             | [Binary Search](https://github.com/Aayers-ghw/leetcode/blob/master/bsearch/Binary_Search.java) |
 | 707             | [Design Linked List](https://github.com/Aayers-ghw/leetcode/blob/master/linkedlist/Design_Linked_List.java) |
-| 709             | [To Lower Case](https://github.com/Aayers-ghw/leetcode/blob/master/string/To Lower Case.java) |
+| 709             | [To Lower Case](https://github.com/Aayers-ghw/leetcode/blob/master/string/To_Lower_Case.java) |
 | 717             | [1-bit and 2-bit Characters](https://github.com/Aayers-ghw/leetcode/blob/master/array/_1bit_and_2bit_Characters.java) |
 | 724             | [Find Pivot Index](https://github.com/Aayers-ghw/leetcode/blob/master/array/Find_Pivot_Index.java) |
 | 746             | [Min Cost Climbing Stairs](https://github.com/Aayers-ghw/leetcode/blob/master/dynamic_programming/Min_Cost_Climbing_Stairs.java) |
