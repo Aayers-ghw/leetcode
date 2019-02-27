@@ -43,6 +43,7 @@
 | 94             | [Binary Tree Inorder Traversal](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Binary_Tree_Inorder_Traversal.java) |
 | 96             | [Unique Binary Search Trees](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Unique_Binary_Search_Trees.java) |
 | 100             | [Same Tree](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Same_Tree.java) |
+| 101             | [Symmetric Tree](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Symmetric_Tree.java) |
 | 102             | [Binary Tree Level Order Traversal](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Binary_Tree_Level_Order_Traversal.java) |
 | 103             | [Binary Tree Zigzag Level Order Traversal](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Binary_Tree_Zigzag_Level_Order_Traversal.java) |
 | 104             | [Maximum Depth of Binary Tree](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Maximum_Depth_of_Binary_Tree.java) |
@@ -128,6 +129,7 @@
 | 561             | [Array Partition I](https://github.com/Aayers-ghw/leetcode/blob/master/array/Array_Partition_I.java) |
 | 563             | [Binary Tree Tilt](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Binary_Tree_Tilt.java) |
 | 566             | [Reshape the Matrix](https://github.com/Aayers-ghw/leetcode/blob/master/array/Reshape_the_Matrix.java) |
+| 572             | [Subtree of Another Tree](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Subtree_of_Another_Tree.java) |
 | 575             | [Distribute Candies](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Distribute_Candies.java) |
 | 581             | [Shortest Unsorted Continuous Subarray](https://github.com/Aayers-ghw/leetcode/blob/master/array/Shortest_Unsorted_Continuous_Subarray.java) |
 | 589             | [N-ary Tree Preorder Traversal](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Nary_Tree_Preorder_Traversal.java) |
@@ -149,9 +151,11 @@
 | 693             | [Binary Number with Alternating Bits](https://github.com/Aayers-ghw/leetcode/blob/master/bit_manipulation/Binary_Number_with_Alternating_Bits.java) |
 | 695             | [Max Area of Island](https://github.com/Aayers-ghw/leetcode/blob/master/array/Max_Area_of_Island.java) |
 | 697             | [Degree of an Array](https://github.com/Aayers-ghw/leetcode/blob/master/array/Degree_of_an_Array.java) |
+| 700             | [Search in a Binary Search Tree](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Search_in_a_Binary_Search_Tree.java) |
 | 703             | [Kth Largest Element in a Stream](https://github.com/Aayers-ghw/leetcode/blob/master/heap/Kth_Largest_Element_in_a_Stream.java) |
 | 704             | [Binary Search](https://github.com/Aayers-ghw/leetcode/blob/master/bsearch/Binary_Search.java) |
 | 707             | [Design Linked List](https://github.com/Aayers-ghw/leetcode/blob/master/linkedlist/Design_Linked_List.java) |
+| 709             | [To Lower Case](https://github.com/Aayers-ghw/leetcode/blob/master/string/To Lower Case.java) |
 | 717             | [1-bit and 2-bit Characters](https://github.com/Aayers-ghw/leetcode/blob/master/array/_1bit_and_2bit_Characters.java) |
 | 724             | [Find Pivot Index](https://github.com/Aayers-ghw/leetcode/blob/master/array/Find_Pivot_Index.java) |
 | 746             | [Min Cost Climbing Stairs](https://github.com/Aayers-ghw/leetcode/blob/master/dynamic_programming/Min_Cost_Climbing_Stairs.java) |
@@ -172,6 +176,7 @@
 | 905             | [Sort Array By Parity]() |
 | 922             | [Sort Array By Parity II](https://github.com/Aayers-ghw/leetcode/blob/master/sort/Sort_Array_By_Parity_II.java) |
 | 933             | [Number of Recent Calls](https://github.com/Aayers-ghw/leetcode/blob/master/queue/Number_of_Recent_Calls.java) |
+| 965             | [Univalued Binary Tree](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Univalued_Binary_Tree.java) |
 | 973             | [K Closest Points to Origin](https://github.com/Aayers-ghw/leetcode/blob/master/sort/K_Closest_Points_to_Origin.java) |
 |              | []() |
 
