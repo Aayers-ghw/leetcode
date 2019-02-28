@@ -170,6 +170,7 @@
 | 849             | [Maximize Distance to Closest Person](https://github.com/Aayers-ghw/leetcode/blob/master/array/Maximize_Distance_to_Closest_Person.java) |
 | 860             | [Lemonade Change](https://github.com/Aayers-ghw/leetcode/blob/master/greedy/Lemonade_Change.java) |
 | 867             | [Transpose Matrix](https://github.com/Aayers-ghw/leetcode/blob/master/array/Transpose_Matrix.java) |
+| 872             | [Leaf-Similar Trees](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Leaf_Similar_Trees.java) |
 | 876             | [Middle of the Linked List](https://github.com/Aayers-ghw/leetcode/blob/master/linkedlist/Middle_of_the_Linked_List.java) |
 | 888             | [Fair Candy Swap](https://github.com/Aayers-ghw/leetcode/blob/master/array/Fair_Candy_Swap.java) |
 | 896             | [Monotonic Array](https://github.com/Aayers-ghw/leetcode/blob/master/array/Monotonic_Array.java) |
