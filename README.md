@@ -110,6 +110,7 @@
 | 409             | [Longest Palindrome](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Longest_Palindrome.java) |
 | 414             | [Third Maximum Number](https://github.com/Aayers-ghw/leetcode/blob/master/array/Third_Maximum_Number.java) |
 | 429             | [N-ary Tree Level Order Traversal](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Nary_Tree_Level_Order_Traversal.java) |
+| 434             | [Number of Segments in a String](https://github.com/Aayers-ghw/leetcode/blob/master/string/Number_of_Segments_in_a_String.java) |
 | 438             | [Find All Anagrams in a String](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Find_All_Anagrams_in_a_String.java) |
 | 445             | [Add Two Numbers II](https://github.com/Aayers-ghw/leetcode/blob/master/linkedlist/Add_Two_Numbers_II.java) |
 | 447             | [Number of Boomerangs](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Number_of_Boomerangs.java) |
