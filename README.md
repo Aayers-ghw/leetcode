@@ -180,6 +180,7 @@
 | 933             | [Number of Recent Calls](https://github.com/Aayers-ghw/leetcode/blob/master/queue/Number_of_Recent_Calls.java) |
 | 965             | [Univalued Binary Tree](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Univalued_Binary_Tree.java) |
 | 973             | [K Closest Points to Origin](https://github.com/Aayers-ghw/leetcode/blob/master/sort/K_Closest_Points_to_Origin.java) |
+| 977             | [Squares of a Sorted Array](https://github.com/Aayers-ghw/leetcode/blob/master/array/Squares_of_a_Sorted_Array.java) |
 |              | []() |
 
 
