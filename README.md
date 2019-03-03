@@ -178,6 +178,7 @@
 | 905             | [Sort Array By Parity]() |
 | 922             | [Sort Array By Parity II](https://github.com/Aayers-ghw/leetcode/blob/master/sort/Sort_Array_By_Parity_II.java) |
 | 933             | [Number of Recent Calls](https://github.com/Aayers-ghw/leetcode/blob/master/queue/Number_of_Recent_Calls.java) |
+| 961             | [N-Repeated Element in Size 2N Array](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/N_Repeated_Element_in_Size_2N_Array.java) |
 | 965             | [Univalued Binary Tree](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Univalued_Binary_Tree.java) |
 | 973             | [K Closest Points to Origin](https://github.com/Aayers-ghw/leetcode/blob/master/sort/K_Closest_Points_to_Origin.java) |
 | 977             | [Squares of a Sorted Array](https://github.com/Aayers-ghw/leetcode/blob/master/array/Squares_of_a_Sorted_Array.java) |
