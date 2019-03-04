@@ -123,6 +123,7 @@
 | 500             | [Keyboard Row](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Keyboard_Row.java) |
 | 503             | [Next Greater Element II](https://github.com/Aayers-ghw/leetcode/blob/master/stack/Next_Greater_Element_II.java) |
 | 515             | [Find Largest Value in Each Tree Row](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Find_Largest_Value_in_Each_Tree_Row.java) |
+| 520             | [Detect Capital](https://github.com/Aayers-ghw/leetcode/blob/master/string/Detect_Capital.java) |
 | 532             | [K-diff Pairs in an Array](https://github.com/Aayers-ghw/leetcode/blob/master/array/Kdiff_Pairs_in_an_Array.java) |
 | 543             | [Diameter of Binary Tree](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Diameter_of_Binary_Tree.java) |
 | 551             | [Student Attendance Record I](https://github.com/Aayers-ghw/leetcode/blob/master/string/Student_Attendance_Record_I.java) |
