@@ -103,6 +103,7 @@
 | 344             | [Reverse String](https://github.com/Aayers-ghw/leetcode/blob/master/string/Reverse_String.java) |
 | 349             | [Intersection of Two Arrays](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Intersection_of_Two_Arrays.java) |
 | 350             | [Intersection of Two Arrays II](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Intersection_of_Two_Arrays_II.java) |
+| 374             | [Guess Number Higher or Lower](https://github.com/Aayers-ghw/leetcode/blob/master/bsearch/Guess_Number_Higher_or_Lower.java) |
 | 383             | [Ransom Note](https://github.com/Aayers-ghw/leetcode/blob/master/string/Ransom_Note.java) |
 | 387             | [First Unique Character in a String](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/First_Unique_Character_in_a_String.java ) |
 | 389             | [Find the Difference](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Find_the_Difference.java) |
@@ -112,6 +113,7 @@
 | 429             | [N-ary Tree Level Order Traversal](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Nary_Tree_Level_Order_Traversal.java) |
 | 434             | [Number of Segments in a String](https://github.com/Aayers-ghw/leetcode/blob/master/string/Number_of_Segments_in_a_String.java) |
 | 438             | [Find All Anagrams in a String](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Find_All_Anagrams_in_a_String.java) |
+| 441             | [Arranging Coins](https://github.com/Aayers-ghw/leetcode/blob/master/math/Arranging_Coins.java) |
 | 445             | [Add Two Numbers II](https://github.com/Aayers-ghw/leetcode/blob/master/linkedlist/Add_Two_Numbers_II.java) |
 | 447             | [Number of Boomerangs](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Number_of_Boomerangs.java) |
 | 448             | [Find All Numbers Disappeared in an Array](https://github.com/Aayers-ghw/leetcode/blob/master/array/Find_All_Numbers_Disappeared_in_an_Array.java) |
