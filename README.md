@@ -37,6 +37,7 @@
 | 74             | [Search a 2D Matrix](https://github.com/Aayers-ghw/leetcode/blob/master/bsearch/Search_a_2D_Matrix.java) |
 | 75             | [Sort Colors](https://github.com/Aayers-ghw/leetcode/blob/master/sort/Sort_Colors.java) |
 | 78             | [Subsets](https://github.com/Aayers-ghw/leetcode/blob/master/backtracking/Subsets.java) |
+| 81             | [Search in Rotated Sorted Array II](https://github.com/Aayers-ghw/leetcode/blob/master/bsearch/Search_in_Rotated_Sorted_Array_II.java) |
 | 83             | [Remove Duplicates from Sorted List](https://github.com/Aayers-ghw/leetcode/blob/master/linkedlist/Remove_Duplicates_from_Sorted_List.java) |
 | 88             | [Merge Sorted Array](https://github.com/Aayers-ghw/leetcode/blob/master/array/Merge_Sorted_Array.java) |
 | 92             | [Reverse Linked List II](https://github.com/Aayers-ghw/leetcode/blob/master/linkedlist/Reverse_Linked_List_II.java) |
@@ -91,6 +92,7 @@
 | 242             | [Valid Anagram](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Valid_Anagram.java) |
 | 257             | [Binary Tree Paths](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Binary_Tree_Paths.java) |
 | 268             | [Missing Number](https://github.com/Aayers-ghw/leetcode/blob/master/array/Missing_Number.java) |
+| 278             | [Find the Duplicate Number](https://github.com/Aayers-ghw/leetcode/blob/master/array/Find_the_Duplicate_Number.java) |
 | 283             | [Move Zeroes](https://github.com/Aayers-ghw/leetcode/blob/master/array/Move_Zeroes.java) |
 | 290             | [Word Pattern](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Word_Pattern.java) |
 | 292             | [Nim Game](https://github.com/Aayers-ghw/leetcode/blob/master/brainteaser/Nim_Game.java) |
