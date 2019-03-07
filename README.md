@@ -126,6 +126,7 @@
 | 496             | [Next Greater Element I](https://github.com/Aayers-ghw/leetcode/blob/master/stack/Next_Greater_Element_I.java) |
 | 500             | [Keyboard Row](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Keyboard_Row.java) |
 | 503             | [Next Greater Element II](https://github.com/Aayers-ghw/leetcode/blob/master/stack/Next_Greater_Element_II.java) |
+| 509             | [Fibonacci Number](https://github.com/Aayers-ghw/leetcode/blob/master/array/Fibonacci_Number.java) |
 | 515             | [Find Largest Value in Each Tree Row](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Find_Largest_Value_in_Each_Tree_Row.java) |
 | 520             | [Detect Capital](https://github.com/Aayers-ghw/leetcode/blob/master/string/Detect_Capital.java) |
 | 532             | [K-diff Pairs in an Array](https://github.com/Aayers-ghw/leetcode/blob/master/array/Kdiff_Pairs_in_an_Array.java) |
@@ -186,6 +187,7 @@
 | 961             | [N-Repeated Element in Size 2N Array](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/N_Repeated_Element_in_Size_2N_Array.java) |
 | 965             | [Univalued Binary Tree](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Univalued_Binary_Tree.java) |
 | 973             | [K Closest Points to Origin](https://github.com/Aayers-ghw/leetcode/blob/master/sort/K_Closest_Points_to_Origin.java) |
+| 976             | [Largest Perimeter Triangle](https://github.com/Aayers-ghw/leetcode/blob/master/array/Largest_Perimeter_Triangle.java) |
 | 977             | [Squares of a Sorted Array](https://github.com/Aayers-ghw/leetcode/blob/master/array/Squares_of_a_Sorted_Array.java) |
 |              | []() |
 
