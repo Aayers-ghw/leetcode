@@ -68,6 +68,7 @@
 | 162             | [Find Peak Element](https://github.com/Aayers-ghw/leetcode/blob/master/bsearch/Find_Peak_Element.java) |
 | 167             | [Two Sum II - Input array is sorted](https://github.com/Aayers-ghw/leetcode/blob/master/array/Two_Sum_II_Input_array_is_sorted.java) |
 | 169             | [Majority Element](https://github.com/Aayers-ghw/leetcode/blob/master/array/Majority_Element.java) |
+| 171             | [Excel Sheet Column Number](https://github.com/Aayers-ghw/leetcode/blob/master/math/Excel_Sheet_Column_Number.java) |
 | 189             | [Rotate Array](https://github.com/Aayers-ghw/leetcode/blob/master/array/Rotate_Array.java) |
 | 191             | [Number of 1 Bits](https://github.com/Aayers-ghw/leetcode/blob/master/bit_manipulation/Number_of_1_Bits.java) |
 | 198             | [House Robber](https://github.com/Aayers-ghw/leetcode/blob/master/dynamic_programming/House_Robber.java) |
