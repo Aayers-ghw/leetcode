@@ -92,6 +92,8 @@
 | 240             | [Search a 2D Matrix II](https://github.com/Aayers-ghw/leetcode/blob/master/divide_and_conquer/Search_a_2D_Matrix_II.java) |
 | 242             | [Valid Anagram](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Valid_Anagram.java) |
 | 257             | [Binary Tree Paths](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Binary_Tree_Paths.java) |
+| 263             | [Ugly Number](https://github.com/Aayers-ghw/leetcode/blob/master/math/Ugly_Number.java) |
+| 264             | [Ugly Number II](https://github.com/Aayers-ghw/leetcode/blob/master/math/Ugly_Number_II.java) |
 | 268             | [Missing Number](https://github.com/Aayers-ghw/leetcode/blob/master/array/Missing_Number.java) |
 | 278             | [Find the Duplicate Number](https://github.com/Aayers-ghw/leetcode/blob/master/array/Find_the_Duplicate_Number.java) |
 | 283             | [Move Zeroes](https://github.com/Aayers-ghw/leetcode/blob/master/array/Move_Zeroes.java) |
