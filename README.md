@@ -92,6 +92,7 @@
 | 240             | [Search a 2D Matrix II](https://github.com/Aayers-ghw/leetcode/blob/master/divide_and_conquer/Search_a_2D_Matrix_II.java) |
 | 242             | [Valid Anagram](https://github.com/Aayers-ghw/leetcode/blob/master/hashtable/Valid_Anagram.java) |
 | 257             | [Binary Tree Paths](https://github.com/Aayers-ghw/leetcode/blob/master/tree/Binary_Tree_Paths.java) |
+| 260             | [Single Number III](https://github.com/Aayers-ghw/leetcode/blob/master/bsearch/Single_Number_III.java) |
 | 263             | [Ugly Number](https://github.com/Aayers-ghw/leetcode/blob/master/math/Ugly_Number.java) |
 | 264             | [Ugly Number II](https://github.com/Aayers-ghw/leetcode/blob/master/math/Ugly_Number_II.java) |
 | 268             | [Missing Number](https://github.com/Aayers-ghw/leetcode/blob/master/array/Missing_Number.java) |
@@ -168,6 +169,7 @@
 | 709             | [To Lower Case](https://github.com/Aayers-ghw/leetcode/blob/master/string/To_Lower_Case.java) |
 | 717             | [1-bit and 2-bit Characters](https://github.com/Aayers-ghw/leetcode/blob/master/array/_1bit_and_2bit_Characters.java) |
 | 724             | [Find Pivot Index](https://github.com/Aayers-ghw/leetcode/blob/master/array/Find_Pivot_Index.java) |
+| 744             | [Find Smallest Letter Greater Than Target](https://github.com/Aayers-ghw/leetcode/blob/master/bsearch/Find_Smallest_Letter_Greater_Than_Target.java) |
 | 746             | [Min Cost Climbing Stairs](https://github.com/Aayers-ghw/leetcode/blob/master/dynamic_programming/Min_Cost_Climbing_Stairs.java) |
 | 747             | [Largest Number At Least Twice of Others](https://github.com/Aayers-ghw/leetcode/blob/master/array/Largest_Number_At_Least_Twice_of_Others.java) |
 | 766             | [Toeplitz Matrix](https://github.com/Aayers-ghw/leetcode/blob/master/array/Toeplitz_Matrix.java) |
